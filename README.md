@@ -66,3 +66,4 @@ Save and close
 OK.
 GoodLuck!
 
+For Linux: https://syncbricks.com/snipe-it-instsallation-ubuntu-20-04/
